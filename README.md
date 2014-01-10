@@ -1,0 +1,4 @@
+ringo
+=====
+
+Potential IOCCC entry
